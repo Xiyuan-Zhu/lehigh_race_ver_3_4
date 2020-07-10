@@ -1,0 +1,2 @@
+rosdep install lehigh_race_ver_3_4
+roslaunch lehigh_race_ver_3_4 lu_ver_3.launch
